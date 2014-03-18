@@ -1,7 +1,11 @@
-# node-canvas-hotplate
-Ready-to-go node HTML5/Canvas app.
+lissajous_figures
+=================
 
-### Steps
-1. 'npm install'
-2. 'npm start'
-3. Access 'http://localhost:port/test' to run tests and view results.
+Interactive lissajous wave generator
+
+YES! There ARE tests! This IS fully tested! Believe it!
+
+## Steps
+1. npm install
+2. npm start
+3. Navigate to http://localhost:8000/test to run tests
